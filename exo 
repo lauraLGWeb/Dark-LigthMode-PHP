@@ -22,6 +22,23 @@ voter deux fois et rappelle le vote précédent.
 S’il vote pour la première fois, les deux cookies sont enregistrés, puis un message de
 remerciement s’affiche.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Exercice 3
 Écrire un script PHP qui crée une page HTML simple avec un titre et du texte.
 Créer deux fichiers CSS pour cette page, clair.css et sombre.css, qui donnent des
@@ -32,6 +49,18 @@ ou elle préfère, et enregistrer cette préférence dans un cookie, afin que la
 s’affiche toujours avec le thème choisi.
 NB : N’oubliez pas l’onglet « Stockage » des outils de développement de Chrome,
 pour supprimer facilement un cookie.
+
+
+
+
+
+
+
+
+
+
+
+
 
 Exercice 04
 Créez un petit site composé de trois pages comme suit:
