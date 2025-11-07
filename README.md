@@ -2,6 +2,8 @@
 
 A simple PHP exercise that lets users switch between light and dark themes. The chosen theme is stored in a cookie and automatically applied on reload.
 
+Link : https://lauralgweb.github.io/Dark-LigthMode-PHP/
+
 ## Features
 - Light/Dark mode   
 - Saves user preference with cookies  
